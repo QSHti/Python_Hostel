@@ -1,0 +1,4 @@
+
+17-04-2023 18:38 	  Name: John 	 County: USA 	 Passport: 2156879 	 From: 17/04/2023 	 Due: 21/04/2023 	  Gender: female 	  Type of room: Single Room
+17-04-2023 18:39 	  Name: Maria 	 County: Italy 	 Passport: 3307892 	 From: 19/04/2023 	 Due: 20/04/2023 	  Gender: female 	  Type of room: Double Room
+06-12-2023 03:22 	  Name:  	 County:  	 Passport:  	 From: 06/12/2023 	 Due: 06/12/2023 	  Gender: female 	  Type of room: Male

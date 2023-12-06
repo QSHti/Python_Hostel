@@ -1,0 +1,3 @@
+Booked on: 17-04-2023 18:38, by: John, country: USA, passport: 2156879, booked from: 17/04/2023, booked until: 21/04/2023, gender: female, room booked: Single Room
+Booked on: 17-04-2023 18:39, by: Maria, country: Italy, passport: 3307892, booked from: 19/04/2023, booked until: 20/04/2023, gender: female, room booked: Double Room
+Booked on: 06-12-2023 03:22, by: , country: , passport: , booked from: 06/12/2023, booked until: 06/12/2023, gender: female, room booked: Male
